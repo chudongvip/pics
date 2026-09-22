@@ -1,5 +1,10 @@
 # pics
 
+访问连接：
+
+- https://cdn.statically.io/gh/chudongvip/pics@main/img/zm9kpy.jpg
+- https://cdn.jsdelivr.net/gh/chudongvip/pics@main/img/zm9kpy.jpg
+
 参考文档：
 
 - https://segmentfault.com/a/1190000023222137
